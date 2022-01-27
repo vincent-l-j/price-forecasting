@@ -1,5 +1,13 @@
 # Price Forecasting
 
+## Installation via [Anaconda](https://www.anaconda.com/products/individual)
+```bash
+# git clone this repo
+cd path/to/price-forecasting
+conda env create --file environment.yml
+conda activate price_forecasting
+```
+
 ## Background
 The financial departments of large companies often have to make foreign currency transactions when doing international business, while hedge funds are also interested in anything that will provide an edge in predicting currency movements. Hence, both are always eager to gain a better understanding of the future direction and risk of various currencies. 
 
